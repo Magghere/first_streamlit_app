@@ -1,7 +1,7 @@
-import streamlit
-import snowflake.connector
+# import streamlit
+# import snowflake.connector
 
-streamlit.title('My parents new healthy diner')
+# streamlit.title('My parents new healthy diner')
 
 import streamlit
 import snowflake.connector
